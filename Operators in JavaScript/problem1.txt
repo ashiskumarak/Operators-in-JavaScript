@@ -1,0 +1,7 @@
+Ternary operator is used to test conditions similar to that of an if else block.
+It has three operand: condition, statement if condition is true and statement if condition is flase
+
+syntax:
+-------
+
+condition ? value if true : value if false;

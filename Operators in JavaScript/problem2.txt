@@ -1,0 +1,2 @@
+Comma operator allows us to evaluate multiple expression in a single statement like 
+declaring multiple variable in a single statement separating then with the comma operator.
